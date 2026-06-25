@@ -1,0 +1,13 @@
+Column_Name,Data_Type,Meaning,Business_Relevance
+Order_ID,str,Unique ID for each order,Track each order uniquely
+Order_Date,str,Date when order was placed,Analyze sales trends over time
+Customer_ID,str,Unique ID for each customer,Identify and track customers
+Customer_Name,str,Full name of customer,Customer identification
+Age,float64,Age of customer,Age based analysis
+Gender,str,Gender of customer,Gender based analysis
+City,str,City where customer lives,Location based analysis
+Product,str,Name of product bought,Product performance tracking
+Category,str,Category of product,Category wise sales analysis
+Quantity,int64,Number of items bought,Sales volume tracking
+Unit_Price,float64,Price of one item,Pricing analysis
+Total_Sales,float64,Total amount paid,Revenue tracking
